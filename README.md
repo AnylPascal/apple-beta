@@ -9,23 +9,23 @@ Get updates on your device automatically - no computer required
 [Download](https://github.com/MrJeffFeng/apple-beta/raw/master/iOS_12_Beta_Profile.mobileconfig)
 
 ## watchOS Beta Profile
-*watchOS 5*
+*watchOS 6*
 
 Get updates for your Apple Watch automatically on your iPhone
 
-[Download](https://github.com/MrJeffFeng/apple-beta/raw/master/watchOS_5_Beta_Profile.mobileconfig)
+[Download](https://github.com/MrJeffFeng/apple-beta/raw/master/watchOS_6_Beta_Profile.mobileconfig)
 
 ## macOS Beta Profile
-*macOS 10.14*
+*macOS 10.15*
 
 Configure your Mac to receive beta software updates automatically
 
-[Download](https://github.com/MrJeffFeng/apple-beta/raw/master/macOS_Mojave_Developer_Beta_Access_Utility.dmg)
+[Download](https://github.com/MrJeffFeng/apple-beta/raw/master/macOSCatalinaDeveloperBeta.dmg)
 
 ## tvOS Beta Profile
-*tvOS 12*
+*tvOS 13*
 
 Get updates on your Apple TV automatically - no computer required
 > It's easier if you install the file from your Apple TV instead. To do that, just go into the Settings app and choose **General > Privacy** and hover over **Send to Apple** without pressing it. Then press the Play/Pause button on your remote and click **Add Profile** on the hidden menu that appears. In the text field that pops up, type `https://tvos.urdailyspot.com` and press OK. When you are prompted to reboot do so. The software should then appear in **Settings > System > Software Update**. Additionally, you can still download the file to your computer for manual installation.
 
-[Download](https://github.com/MrJeffFeng/apple-beta/raw/master/tvOS_12_Beta_Profile.mobileconfig)
+[Download](https://github.com/MrJeffFeng/apple-beta/raw/master/tvOS_13_Beta_Profile.mobileconfig)
