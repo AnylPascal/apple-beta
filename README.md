@@ -3,12 +3,12 @@
 
 **Beta software may have bugs and cause problems with your device.**
 
-## iOS Beta Profile
-*iOS 12*
+## iOS and iPadOS Beta Profile
+*iOS 13*
 
 Configures your iDevice to receive over-the-air beta software updates (no computer required).  Install the profile and reboot when prompted.  The update should then appear in **Settings > General > Software Update**.
 
-[Download](https://github.com/MrJeffFeng/apple-beta/raw/master/iOS_12_Beta_Profile.mobileconfig)
+[Download](https://github.com/MrJeffFeng/apple-beta/raw/master/iOS_iPadOS_13_Beta_Profile.mobileconfig)
 
 ## watchOS Beta Profile
 *watchOS 6*
@@ -35,12 +35,12 @@ Note: It is easier to install this file from your Apple TV. To do this:
 
 * Go into the **Settings** app on your Apple TV.
 * Navigate to **General > Privacy**.
-* Hover over **Send to Apple** without pressing it. 
+* Hover over **Share Apple TV Analytics** without pressing it.
 * Press the **Play/Pause button** on your remote and click **Add Profile** on the hidden menu that appears.
-* In the text field that pops up, type `https://tvos.urdailyspot.com` and press **OK**. 
-* Reboot when you are prompted to do so. 
-* The update should then appear in **Settings > System > Software Update**. 
-    
+* In the text field that pops up, type `https://tvos.urdailyspot.com` and press **OK**.
+* Reboot when you are prompted to do so.
+* The update should then appear in **Settings > System > Software Update**.
+
 You may instead opt to download the configuration file to your computer for manual installation:
 
 [Download](https://github.com/MrJeffFeng/apple-beta/raw/master/tvOS_13_Beta_Profile.mobileconfig)
