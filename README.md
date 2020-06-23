@@ -37,7 +37,7 @@ Note: It is easier to install this file from your Apple TV. To do this:
 * Navigate to **General > Privacy**.
 * Hover over **Share Apple TV Analytics** without pressing it.
 * Press the **Play/Pause button** on your remote and click **Add Profile** on the hidden menu that appears.
-* In the text field that pops up, type `https://tvos.urdailyspot.com` and press **OK**.
+* In the text field that pops up, type `http://tvos.urdailyspot.com` and press **OK**.
 * Reboot when you are prompted to do so.
 * The update should then appear in **Settings > System > Software Update**.
 
